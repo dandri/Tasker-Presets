@@ -192,7 +192,7 @@ Only available if you select &amp;lt;b&amp;gt;Continue Task After Error&amp;lt;/
 					<net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>java.lang.String</net.dinglisch.android.tasker.extras.VARIABLE_REPLACE_KEYS-type>
 					<net.dinglisch.android.tasker.subbundled>true</net.dinglisch.android.tasker.subbundled>
 					<net.dinglisch.android.tasker.subbundled-type>java.lang.Boolean</net.dinglisch.android.tasker.subbundled-type>
-					<plugininstanceid>5db44b69-23d0-4ea9-bfe2-f108cddc26e3</plugininstanceid>
+					<plugininstanceid>16c1465e5dd328a05a471b20f232c0fa46fef053</plugininstanceid>
 					<plugininstanceid-type>java.lang.String</plugininstanceid-type>
 					<plugintypeid>com.joaomgcd.autoinput.intent.IntentPerformAction</plugintypeid>
 					<plugintypeid-type>java.lang.String</plugintypeid-type>
